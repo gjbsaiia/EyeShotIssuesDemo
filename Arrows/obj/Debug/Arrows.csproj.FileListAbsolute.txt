@@ -1,0 +1,51 @@
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\Arrows.exe
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\Arrows.pdb
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\devDept.Eyeshot.Control.Win.v2020.dll
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\devDept.Geometry.v2020.dll
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\devDept.Graphics.Shaders.v2020.dll
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\devDept.Graphics.Win.v2020.dll
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\devDept.Eyeshot.Control.Win.v2020.xml
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\devDept.Graphics.Win.v2020.xml
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\bin\Debug\devDept.Geometry.v2020.xml
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\Arrows.csprojAssemblyReference.cache
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\Arrows.csproj.GenerateResource.cache
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\Arrows.csproj.CoreCompileInputs.cache
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\Arrows.csproj.CopyComplete
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\Arrows.exe
+C:\Users\gsaiia\Documents\Eyeshot Ultimate 2020 Samples\WinForms\Arrows\CSharp\Arrows\obj\Debug\Arrows.pdb
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\Arrows.exe
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\Arrows.pdb
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\devDept.Eyeshot.Control.Win.v2020.dll
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\devDept.Geometry.v2020.dll
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\devDept.Graphics.Shaders.v2020.dll
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\devDept.Graphics.Win.v2020.dll
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\devDept.Eyeshot.Control.Win.v2020.xml
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\devDept.Graphics.Win.v2020.xml
+C:\Users\gsaiia\source\repos\CSharp\Arrows\bin\Debug\devDept.Geometry.v2020.xml
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\Arrows.csprojAssemblyReference.cache
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\Arrows.csproj.GenerateResource.cache
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\Arrows.csproj.CoreCompileInputs.cache
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\Arrows.csproj.CopyComplete
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\Arrows.exe
+C:\Users\gsaiia\source\repos\CSharp\Arrows\obj\Debug\Arrows.pdb
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\Arrows.exe
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\Arrows.pdb
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\devDept.Eyeshot.Control.Win.v2020.dll
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\devDept.Geometry.v2020.dll
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\devDept.Graphics.Shaders.v2020.dll
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\devDept.Graphics.Win.v2020.dll
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\devDept.Eyeshot.Control.Win.v2020.xml
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\devDept.Graphics.Win.v2020.xml
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\bin\Debug\devDept.Geometry.v2020.xml
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\Arrows.csprojAssemblyReference.cache
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\Arrows.csproj.GenerateResource.cache
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\Arrows.csproj.CoreCompileInputs.cache
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\Arrows.csproj.CopyComplete
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\Arrows.exe
+C:\Users\gsaiia\source\repos\SectioningProblem\Arrows\obj\Debug\Arrows.pdb
